@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Sherlock</string>
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="episode_name">Episode Name</string>
+    <string name="episode_duration">90 minutes</string>
+    <string name="episode_release_date">Date</string>
+    <string name="episode_viewers_ratings_heading">Viewers Ratings</string>
+    <string name="_5_stars">5 Stars</string>
+    <string name="episode_overview">Hello this is the overview of the episode of the series.</string>
+    <string name="season_quote">“I am not a psychopath Anderson, I am a high-functioning sociopath. Do your research.”</string>
+    <string name="season_quote_speaker">~ Sherlock</string>
+    <string name="season_release_date">Date</string>
+    <string name="season_episodes_heading">EPISODES-</string>
+    <string name="sherlock_overview">A modern update finds the famous sleuth and his doctor partner solving crime in 21st century London.</string>
+</resources>
